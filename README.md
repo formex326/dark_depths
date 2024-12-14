@@ -1,4 +1,4 @@
-# Formexmod
+# Dark Depths
 Adds 5 new creatures to the dark biome, all with unique A.Is.
 
 ## Settings
